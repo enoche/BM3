@@ -1,2 +1,2 @@
 # BM3
-Pytorch implementation for "Self-supervised Learning for Multi-modal Recommendation"
+Pytorch implementation for "Bootstrap Latent Representations for Multi-modal Recommendation"
