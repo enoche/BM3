@@ -16,7 +16,7 @@ The data already contains text and image features extracted from Sentence-Transf
 You may specify other parameters in CMD or config with `configs/model/*.yaml` and `configs/dataset/*.yaml`.
 
 ## Best hyper-parameters for reproducibility
-We report the best hyper-parameters of BM3 to reproduce the results in Table I. of our paper as:  
+We report the best hyper-parameters of BM3 to reproduce the results in Table III of our paper as:  
 
 | Datasets | layers | dropout | reg_weight |
 |----------|--------|---------|------------|
