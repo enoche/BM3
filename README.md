@@ -11,8 +11,9 @@ Download from Google Drive: [Baby/Sport/Elec](https://drive.google.com/drive/fol
 The data already contains text and image features extracted from Sentence-Transformers and CNN.  
 
 ## How to run
-`python main.py -m bm3 -d baby`
-
+1. Put data folder under `data` dir.
+2. Enter src and run with  
+`python main.py -m bm3 -d baby`  
 You may specify other parameters in CMD or config with `configs/model/*.yaml` and `configs/dataset/*.yaml`.
 
 ## Best hyper-parameters for reproducibility
