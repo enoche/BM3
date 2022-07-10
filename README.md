@@ -12,7 +12,7 @@ The data already contains text and image features extracted from Sentence-Transf
 
 ## How to run
 1. Put data folder under `data` dir.
-2. Enter src and run with  
+2. Enter `src` folder and run with  
 `python main.py -m bm3 -d baby`  
 You may specify other parameters in CMD or config with `configs/model/*.yaml` and `configs/dataset/*.yaml`.
 
