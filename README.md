@@ -1,5 +1,5 @@
 # BM3
-Pytorch implementation for "Bootstrap Latent Representations for Multi-modal Recommendation"
+Pytorch implementation for "Bootstrap Latent Representations for Multi-modal Recommendation" [arxiv](https://arxiv.org/abs/2207.05969)
 
 ## Overview of BM3
 <p>
