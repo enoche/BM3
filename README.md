@@ -2,6 +2,7 @@
 Pytorch implementation for "Bootstrap Latent Representations for Multi-modal Recommendation"-WWW'23 [arxiv](https://arxiv.org/abs/2207.05969)
 
 - :twisted_rightwards_arrows: This model is integrated into the [MMRec](https://github.com/enoche/MMRec) framework.
+- :point_right: Check the awesome [multimodal recommendation resources](https://github.com/enoche/MultimodalRecSys).
 
 ## Overview of BM3
 <p>
