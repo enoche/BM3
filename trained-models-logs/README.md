@@ -10,7 +10,7 @@ We share the [trained models and logs](https://drive.google.com/drive/folders/1p
  
 
 ### Notes
-Anyone can load the saved `checkpoints` of our models with the pytorch official instructions: https://pytorch.org/tutorials/beginner/saving_loading_models.html
+Anyone can load the saved `checkpoints` of our models with the pytorch official instructions: https://pytorch.org/tutorials/beginner/saving_loading_models.html   
 Here is how we save our model:
 ```
     def _save_checkpoint(self, epoch):
