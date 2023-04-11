@@ -1,4 +1,6 @@
-/data/
+/data/baby/
+/data/elec/
+/data/sports/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
