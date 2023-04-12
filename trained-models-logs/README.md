@@ -1,13 +1,9 @@
 We share the [trained models and logs](https://drive.google.com/drive/folders/1pFcT22yCNYmSeJZyGQRS0QtiG0APCNfi?usp=share_link) that reach the best performance under each dataset
 
-## Trained Models 
-- [Baby@Google Drive](https://drive.google.com/file/d/1mE-8coNZ9_eUtvW6h-lq7uFHFRmdMGCa/view?usp=share_link): 385M
-- TBC...
-
-## Logs
-- [Baby@Google Drive](https://drive.google.com/file/d/1QO48VICdcY-lGj4ZJ0NOP1BV4DM_TBc7/view?usp=share_link)
-- TBC...
- 
+## Trained Models & Logs
+- [Baby@Google Drive](https://drive.google.com/drive/folders/1OmRY9Z9fC01HjzT1qDuUZEwUBq03oZ5s?usp=share_link): 385M
+- [Sports@Google Drive](https://drive.google.com/drive/folders/12DngCZbMafipy2cpcWEyHz9kmKejOGcu?usp=share_link): 984M
+- [Elec@Google Drive](https://drive.google.com/drive/folders/1QSojeVMGQvGsgNE5GD4T7ZA7ncllWU5N?usp=share_link): 3.34G
 
 ### Notes
 Anyone can load the saved `checkpoints` of our models with the pytorch official instructions: https://pytorch.org/tutorials/beginner/saving_loading_models.html   
