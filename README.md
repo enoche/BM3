@@ -28,4 +28,4 @@ We report the best hyper-parameters of BM3 to reproduce the results in Table III
 | Sports   | 1      | 0.5     | 0.01       |
 | Elec     | 2      | 0.3     | 0.1        |
 
- 
+ Trained logs&models are stored at: https://github.com/enoche/BM3/tree/master/trained-models-logs
