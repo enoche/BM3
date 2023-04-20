@@ -1,6 +1,6 @@
 # BM3 (WWW'23)
 Pytorch implementation for "Bootstrap Latent Representations for Multi-modal Recommendation"-WWW'23 [arxiv](https://arxiv.org/abs/2207.05969)
-
+- Trained logs&models are stored at: https://github.com/enoche/BM3/tree/master/trained-models-logs
 - :twisted_rightwards_arrows: This model is integrated into the [MMRec](https://github.com/enoche/MMRec) framework.
 - :point_right: Check the awesome [multimodal recommendation resources](https://github.com/enoche/MultimodalRecSys).
 
@@ -28,4 +28,4 @@ We report the best hyper-parameters of BM3 to reproduce the results in Table III
 | Sports   | 1      | 0.5     | 0.01       |
 | Elec     | 2      | 0.3     | 0.1        |
 
- Trained logs&models are stored at: https://github.com/enoche/BM3/tree/master/trained-models-logs
+
