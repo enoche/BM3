@@ -29,3 +29,13 @@ We report the best hyper-parameters of BM3 to reproduce the results in Table III
 | Elec     | 2      | 0.3     | 0.1        |
 
 
+## Citation
+```
+@inproceedings{zhou2023bootstrap,
+author = {Zhou, Xin and Zhou, Hongyu and Liu, Yong and Zeng, Zhiwei and Miao, Chunyan and Wang, Pengwei and You, Yuan and Jiang, Feijun},
+title = {Bootstrap Latent Representations for Multi-Modal Recommendation},
+booktitle = {Proceedings of the ACM Web Conference 2023},
+pages = {845–854},
+year = {2023}
+}
+```
