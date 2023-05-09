@@ -1,5 +1,5 @@
 # BM3 (WWW'23)
-Pytorch implementation for "Bootstrap Latent Representations for Multi-modal Recommendation"-WWW'23 [arxiv](https://arxiv.org/abs/2207.05969)
+Pytorch implementation for "Bootstrap Latent Representations for Multi-modal Recommendation"-WWW'23 [arxiv](https://arxiv.org/abs/2207.05969)  [Official ACM](https://dl.acm.org/doi/10.1145/3543507.3583251)
 - Trained logs&models are stored at: https://github.com/enoche/BM3/tree/master/trained-models-logs
 - :twisted_rightwards_arrows: This model is integrated into the [MMRec](https://github.com/enoche/MMRec) framework.
 - :point_right: Check the awesome [multimodal recommendation resources](https://github.com/enoche/MultimodalRecSys).
